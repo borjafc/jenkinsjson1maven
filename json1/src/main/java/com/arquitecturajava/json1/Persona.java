@@ -1,9 +1,7 @@
 package com.arquitecturajava.json1;
 
-
-
 public class Persona {
-	
+
 	private String nombre;
 
 	public String getNombre() {
