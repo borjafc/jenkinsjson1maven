@@ -3,7 +3,10 @@
   <groupId>com.arquitecturajava</groupId>
   <artifactId>json1</artifactId>
   <version>1</version>
-  
+  <properties>
+    <maven.compiler.source>1.6</maven.compiler.source>
+    <maven.compiler.target>1.6</maven.compiler.target>
+</properties>
   <dependencies>
   
   <!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-core -->
